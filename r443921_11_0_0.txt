@@ -1656,14 +1656,6 @@
          "www/qt4-webkit"
       ]
    },
-   "audio/emms" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "audio/esperanza" : {
       "del" : [
          "devel/qmake4"
@@ -4289,11 +4281,9 @@
    },
    "cad/dinotrace" : {
       "del" : [
-         "/usr/ports/editors/emacs",
          "lang/perl5.20"
       ],
       "new" : [
-         "editors/emacs",
          "lang/perl5.24"
       ]
    },
@@ -4731,14 +4721,6 @@
    "cad/varkon" : {
       "new" : [
          "x11/dri3proto"
-      ]
-   },
-   "cad/verilog-mode.el" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "cad/xcircuit" : {
@@ -6604,14 +6586,6 @@
       "new" : [
          "devel/qt4-dbus",
          "devel/qt4-qmake"
-      ]
-   },
-   "databases/bbdb" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "databases/buzhug" : {
@@ -10209,11 +10183,9 @@
    },
    "databases/py-sqlrelay" : {
       "del" : [
-         "/usr/ports/databases/sqlrelay",
          "lang/perl5.20"
       ],
       "new" : [
-         "databases/sqlrelay",
          "lang/perl5.24"
       ]
    },
@@ -11370,14 +11342,6 @@
          "x11/libXi"
       ]
    },
-   "deskutils/etask" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "deskutils/everygui" : {
       "del" : [
          "devel/py-setuptools27"
@@ -11597,14 +11561,6 @@
    "deskutils/hot-babe" : {
       "new" : [
          "devel/gettext-runtime"
-      ]
-   },
-   "deskutils/howm" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "deskutils/jlj" : {
@@ -12928,14 +12884,6 @@
          "devel/py27-setuptools"
       ]
    },
-   "devel/cask" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "devel/cc65" : {
       "del" : [
          "lang/perl5.20"
@@ -13001,14 +12949,6 @@
    "devel/clanlib22" : {
       "new" : [
          "x11/dri3proto"
-      ]
-   },
-   "devel/clojure-cider" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "devel/cloudabi-toolchain" : {
@@ -13370,14 +13310,6 @@
          "lang/perl5.24"
       ]
    },
-   "devel/dash.el" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "devel/dbus" : {
       "del" : [
          "sysutils/gnome_subr",
@@ -13455,14 +13387,6 @@
          "devel/automake",
          "devel/libtool",
          "devel/pkgconf"
-      ]
-   },
-   "devel/distel" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "devel/ditrack" : {
@@ -13592,14 +13516,6 @@
       "new" : [
          "devel/elixir-calendar",
          "devel/elixir-crontab"
-      ]
-   },
-   "devel/epl.el" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "devel/epydoc" : {
@@ -14100,14 +14016,6 @@
          "textproc/asciidoc",
          "textproc/docbook-xml",
          "textproc/xmlto"
-      ]
-   },
-   "devel/git-modes" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "devel/git-review" : {
@@ -17334,14 +17242,6 @@
       "new" : [
          "x11-toolkits/libXmu",
          "x11/libXrender"
-      ]
-   },
-   "devel/magit" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "devel/make++" : {
@@ -28959,11 +28859,9 @@
    },
    "devel/p5-Sepia" : {
       "del" : [
-         "/usr/ports/editors/emacs",
          "lang/perl5.20"
       ],
       "new" : [
-         "editors/emacs",
          "lang/perl5.24"
       ]
    },
@@ -32937,14 +32835,6 @@
          "devel/gmake"
       ]
    },
-   "devel/pkg-info.el" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "devel/plan9port" : {
       "del" : [
          "lang/perl5.20"
@@ -32969,14 +32859,6 @@
       ],
       "new" : [
          "lang/perl5.24"
-      ]
-   },
-   "devel/psvn" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "devel/publib" : {
@@ -38801,12 +38683,10 @@
    },
    "devel/pymacs" : {
       "del" : [
-         "/usr/ports/editors/emacs",
          "devel/py-setuptools27"
       ],
       "new" : [
-         "devel/py27-setuptools",
-         "editors/emacs"
+         "devel/py27-setuptools"
       ]
    },
    "devel/pyobfuscate" : {
@@ -44765,14 +44645,6 @@
          "lang/ruby23"
       ]
    },
-   "editors/apel" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "editors/calligra" : {
       "del" : [
          "astro/marble",
@@ -44965,14 +44837,6 @@
       ],
       "new" : [
          "devel/py27-setuptools"
-      ]
-   },
-   "editors/flim" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "editors/fte" : {
@@ -45258,14 +45122,6 @@
          "lang/perl5.24"
       ]
    },
-   "editors/paredit-mode.el" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "editors/pdfedit" : {
       "del" : [
          "lang/perl5.20"
@@ -45294,14 +45150,6 @@
          "devel/icu"
       ]
    },
-   "editors/psgml" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "editors/py-room" : {
       "del" : [
          "devel/py-setuptools27"
@@ -45315,30 +45163,6 @@
          "devel/gettext-runtime",
          "graphics/cairo",
          "graphics/gdk-pixbuf2"
-      ]
-   },
-   "editors/semi" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
-   "editors/slime" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
-   "editors/tamago" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "editors/tea" : {
@@ -45416,14 +45240,6 @@
          "devel/qt4-qmake"
       ]
    },
-   "editors/tree-widget" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "editors/vanubi" : {
       "new" : [
          "devel/gettext-runtime"
@@ -45443,14 +45259,6 @@
          "x11/libICE",
          "x11/libSM",
          "x11/libX11"
-      ]
-   },
-   "editors/with-editor" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "editors/xvile" : {
@@ -56650,14 +56458,6 @@
          "lang/gcc5"
       ]
    },
-   "graphics/xface.el" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "graphics/xmandel" : {
       "del" : [
          "lang/perl5.20"
@@ -57230,14 +57030,6 @@
          "lang/ruby23"
       ]
    },
-   "irc/riece" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "irc/rubygem-cinch" : {
       "del" : [
          "lang/ruby22"
@@ -57363,28 +57155,12 @@
          "lang/perl5.24"
       ]
    },
-   "japanese/ddskk" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "japanese/eb" : {
       "del" : [
          "lang/perl5.20"
       ],
       "new" : [
          "lang/perl5.24"
-      ]
-   },
-   "japanese/egg-canna" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "japanese/eijiro-fpw" : {
@@ -57594,14 +57370,6 @@
          "lang/python27"
       ]
    },
-   "japanese/lookup" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "japanese/mecab" : {
       "del" : [
          "lang/perl5.20"
@@ -57652,20 +57420,10 @@
    },
    "japanese/migemo-emacs23" : {
       "del" : [
-         "/usr/ports/editors/emacs",
          "lang/ruby22"
       ],
       "new" : [
-         "editors/emacs",
          "lang/ruby23"
-      ]
-   },
-   "japanese/migemo.el" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "japanese/mime_pls" : {
@@ -57678,12 +57436,8 @@
    },
    "japanese/mozc-el" : {
       "del" : [
-         "/usr/ports/editors/emacs",
          "converters/libiconv",
          "lang/python"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "japanese/mozc-server" : {
@@ -57728,11 +57482,7 @@
       ]
    },
    "japanese/navi2ch" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
       "new" : [
-         "editors/emacs",
          "japanese/p5-2chproxy"
       ]
    },
@@ -58181,14 +57931,6 @@
          "lang/gcc5"
       ]
    },
-   "japanese/yc.el" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "japanese/zipcodes" : {
       "del" : [
          "lang/perl5.20"
@@ -58384,14 +58126,6 @@
          "misc/qtchooser"
       ]
    },
-   "lang/alchemist.el" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "lang/algol68g" : {
       "new" : [
          "devel/readline"
@@ -58422,14 +58156,6 @@
          "devel/llvm39",
          "graphics/mesa-libs",
          "x11/dri3proto"
-      ]
-   },
-   "lang/bigloo" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "lang/cdent" : {
@@ -58472,14 +58198,6 @@
          "lang/perl5.24"
       ]
    },
-   "lang/clojure-mode.el" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "lang/clover" : {
       "del" : [
          "devel/libdevq",
@@ -58503,14 +58221,6 @@
          "graphics/mesa-libs"
       ]
    },
-   "lang/csharp-mode.el" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "lang/cython" : {
       "del" : [
          "devel/py-setuptools27"
@@ -58525,14 +58235,6 @@
       ],
       "new" : [
          "lang/perl5.24"
-      ]
-   },
-   "lang/elixir-mode.el" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "lang/erlang" : {
@@ -58728,12 +58430,8 @@
    },
    "lang/gcl" : {
       "del" : [
-         "/usr/ports/editors/emacs",
          "devel/binutils",
          "lang/gcc"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "lang/gforth" : {
@@ -58781,14 +58479,6 @@
    "lang/guile2" : {
       "new" : [
          "print/texinfo"
-      ]
-   },
-   "lang/haskell-mode.el" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "lang/hs-brainfuck" : {
@@ -59288,14 +58978,6 @@
          "misc/qtchooser"
       ]
    },
-   "lang/quack" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "lang/racket" : {
       "new" : [
          "devel/gettext-runtime"
@@ -59463,14 +59145,6 @@
       ],
       "new" : [
          "devel/py27-setuptools"
-      ]
-   },
-   "lang/tuareg-mode.el" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "lang/visualworks" : {
@@ -59659,14 +59333,6 @@
       ],
       "new" : [
          "lang/perl5.24"
-      ]
-   },
-   "mail/c-sig" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "mail/claws-mail" : {
@@ -60322,12 +59988,10 @@
    },
    "mail/mailest" : {
       "del" : [
-         "/usr/ports/editors/emacs",
          "devel/libevent2"
       ],
       "new" : [
-         "devel/libevent",
-         "editors/emacs"
+         "devel/libevent"
       ]
    },
    "mail/mailfront" : {
@@ -60412,14 +60076,6 @@
          "lang/perl5.24"
       ]
    },
-   "mail/mew" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "mail/milter-callback" : {
       "del" : [
          "lang/gcc"
@@ -60476,22 +60132,6 @@
    "mail/mu" : {
       "new" : [
          "devel/gettext-runtime"
-      ]
-   },
-   "mail/mu4e" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
-   "mail/mu4e-maildirs" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "mail/mulberry" : {
@@ -62956,22 +62596,6 @@
          "devel/gettext-runtime"
       ]
    },
-   "mail/x-face-e21" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
-   "mail/xcite" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "mail/xpbiff" : {
       "del" : [
          "devel/binutils",
@@ -63488,14 +63112,6 @@
       ],
       "new" : [
          "lang/gcc5"
-      ]
-   },
-   "math/ess" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "math/fftw" : {
@@ -66213,12 +65829,10 @@
    },
    "math/proofgeneral" : {
       "del" : [
-         "/usr/ports/editors/emacs",
          "lang/perl5.20"
       ],
       "new" : [
          "devel/gettext-runtime",
-         "editors/emacs",
          "lang/perl5.24"
       ]
    },
@@ -67167,14 +66781,6 @@
       ],
       "new" : [
          "lang/perl5.24"
-      ]
-   },
-   "misc/elscreen" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "misc/esniper" : {
@@ -70686,14 +70292,6 @@
       ],
       "new" : [
          "lang/gcc5"
-      ]
-   },
-   "net-im/jabber.el" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "net-im/jabberd" : {
@@ -79797,14 +79395,6 @@
          "java/openjdk7"
       ]
    },
-   "net/tramp" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "net/trickle" : {
       "del" : [
          "devel/libevent2"
@@ -80671,12 +80261,8 @@
       ]
    },
    "print/auctex" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
       "new" : [
-         "devel/gmake",
-         "editors/emacs"
+         "devel/gmake"
       ]
    },
    "print/axpoint" : {
@@ -80939,14 +80525,6 @@
       ],
       "new" : [
          "lang/perl5.24"
-      ]
-   },
-   "print/hyperlatex" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "print/kde4-print-manager" : {
@@ -84017,11 +83595,6 @@
       ],
       "new" : [
          "devel/qt4-qmake"
-      ]
-   },
-   "security/osiris" : {
-      "new" : [
-         "devel/readline"
       ]
    },
    "security/p5-Apache-Htpasswd" : {
@@ -87766,14 +87339,6 @@
          "security/openssl"
       ]
    },
-   "security/starttls" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "security/stegdetect" : {
       "del" : [
          "devel/libevent2"
@@ -90341,14 +89906,6 @@
          "lang/ruby23"
       ]
    },
-   "sysutils/puppet-mode.el" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "sysutils/puppet4" : {
       "del" : [
          "lang/ruby22"
@@ -92297,22 +91854,6 @@
          "lang/perl5.24"
       ]
    },
-   "textproc/dictem" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
-   "textproc/dictionary" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "textproc/diffsplit" : {
       "del" : [
          "lang/perl5.20"
@@ -92335,14 +91876,6 @@
       ],
       "new" : [
          "devel/qt4-qmake"
-      ]
-   },
-   "textproc/doc-mode.el" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "textproc/docbook-utils" : {
@@ -92383,14 +91916,6 @@
       ],
       "new" : [
          "lang/perl5.24"
-      ]
-   },
-   "textproc/emacs-wiki" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "textproc/enchant" : {
@@ -92945,14 +92470,6 @@
          "lang/gcc5"
       ]
    },
-   "textproc/htmlize.el" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "textproc/htmlsection" : {
       "del" : [
          "lang/perl5.20"
@@ -92987,14 +92504,6 @@
       ],
       "new" : [
          "devel/json-glib"
-      ]
-   },
-   "textproc/ibus-el" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "textproc/ibus-qt" : {
@@ -93172,28 +92681,12 @@
          "lang/perl5.24"
       ]
    },
-   "textproc/markdown-mode.el" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "textproc/meld" : {
       "del" : [
          "devel/py-setuptools27"
       ],
       "new" : [
          "devel/py27-setuptools"
-      ]
-   },
-   "textproc/muse" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "textproc/mythes" : {
@@ -100370,11 +99863,9 @@
    },
    "textproc/uim-el" : {
       "del" : [
-         "/usr/ports/editors/emacs",
          "lang/perl5.20"
       ],
       "new" : [
-         "editors/emacs",
          "lang/perl5.24"
       ]
    },
@@ -100463,22 +99954,6 @@
          "lang/perl5.24"
       ]
    },
-   "textproc/xml-lite.el" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
-   "textproc/xml-parse.el" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
-      ]
-   },
    "textproc/xml2rfc" : {
       "del" : [
          "devel/py-setuptools27"
@@ -100549,14 +100024,6 @@
       ],
       "new" : [
          "lang/perl5.24"
-      ]
-   },
-   "textproc/yaml-mode.el" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "textproc/yodl" : {
@@ -100977,14 +100444,6 @@
    "www/elixir-phoenix" : {
       "new" : [
          "www/elixir-phoenix_pubsub"
-      ]
-   },
-   "www/emacs-w3m" : {
-      "del" : [
-         "/usr/ports/editors/emacs"
-      ],
-      "new" : [
-         "editors/emacs"
       ]
    },
    "www/epiphany" : {
@@ -113840,68 +113299,6 @@
          "lang/perl5.24"
       ]
    },
-   "www/twiki-LdapNgPlugin" : {
-      "del" : [
-         "/usr/ports/www/twiki-LdapContrib"
-      ],
-      "new" : [
-         "www/twiki-LdapContrib"
-      ]
-   },
-   "www/twiki-PatternSkin" : {
-      "del" : [
-         "/usr/ports/www/twiki-TablePlugin",
-         "/usr/ports/www/twiki-TwistyPlugin"
-      ],
-      "new" : [
-         "www/twiki-TablePlugin",
-         "www/twiki-TwistyPlugin"
-      ]
-   },
-   "www/twiki-SubscribePlugin" : {
-      "del" : [
-         "/usr/ports/www/twiki-MailerContrib"
-      ],
-      "new" : [
-         "www/twiki-MailerContrib"
-      ]
-   },
-   "www/twiki-TinyMCEPlugin" : {
-      "del" : [
-         "/usr/ports/www/twiki-BehaviourContrib",
-         "/usr/ports/www/twiki-WysiwygPlugin"
-      ],
-      "new" : [
-         "www/twiki-BehaviourContrib",
-         "www/twiki-WysiwygPlugin"
-      ]
-   },
-   "www/twiki-TipsContrib" : {
-      "del" : [
-         "/usr/ports/www/twiki-SpreadSheetPlugin"
-      ],
-      "new" : [
-         "www/twiki-SpreadSheetPlugin"
-      ]
-   },
-   "www/twiki-TwistyContrib" : {
-      "del" : [
-         "/usr/ports/www/twiki-BehaviourContrib"
-      ],
-      "new" : [
-         "www/twiki-BehaviourContrib"
-      ]
-   },
-   "www/twiki-TwistyPlugin" : {
-      "del" : [
-         "/usr/ports/www/twiki-BehaviourContrib",
-         "/usr/ports/www/twiki-TwistyContrib"
-      ],
-      "new" : [
-         "www/twiki-BehaviourContrib",
-         "www/twiki-TwistyContrib"
-      ]
-   },
    "www/twill" : {
       "del" : [
          "devel/py-setuptools27"
@@ -117880,7 +117277,6 @@
    },
    "x11/kdelibs4" : {
       "del" : [
-         "/usr/ports/net/avahi-app",
          "devel/dbus-qt4",
          "devel/qmake4",
          "lang/perl5.20",
@@ -117893,7 +117289,6 @@
          "devel/qt4-qmake",
          "graphics/ilmbase",
          "lang/perl5.24",
-         "net/avahi-app",
          "www/qt4-webkit",
          "x11-themes/kf5-oxygen-icons5",
          "x11/libICE",
